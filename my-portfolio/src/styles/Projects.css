@@ -1,0 +1,38 @@
+.projects-section {
+  padding: 100px 20px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.projects-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.project-card {
+  width: 300px;
+  margin: 20px;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.project-image {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.project-link {
+  display: block;
+  margin-top: 10px;
+  text-decoration: none;
+  color: #915eff;
+  font-weight: bold;
+}
+
+.project-tech {
+  color: #915eff;
+  font-style: italic;
+}
