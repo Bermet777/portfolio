@@ -11,7 +11,7 @@ const Contact = () => {
           <a href="https://github.com/Bermet777" className="hover:text-purple-500" target="_blank" rel="noopener noreferrer">
             GitHub
           </a>
-          <a href="www.linkedin.com/in/bermetalibekova" className="hover:text-purple-500" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/bermetalibekova" className="hover:text-purple-500" target="_blank" rel="noopener noreferrer">
             LinkedIn
           </a>
         </div>

@@ -14,7 +14,7 @@ const Hero = () => {
           Hi, I'm <span className="text-purple-500">Bermet</span>
         </h1>
         <p className="mt-5 text-lg max-w-xl mx-auto leading-relaxed">
-          I'm a full-stack software engineer based in New York. <br />
+          I'm a full-stack software engineer based in US. <br />
           I have a great interest in developing innovative and inclusive <br />
           software solutions that can positively impact the world.
         </p>
