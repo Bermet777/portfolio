@@ -9,7 +9,7 @@ const Technologies = () => {
           <div>
             <strong className="block text-xl mb-3">Front-end</strong>
             <p className="text-gray-700">
-              JavaScript, React, Vue, HTML/CSS, Bootstrap
+              JavaScript, React, Vue, HTML,CSS, Bootstrap
             </p>
           </div>
           <div>
