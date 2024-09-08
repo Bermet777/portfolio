@@ -24,7 +24,7 @@ const Hero = () => {
             whileHover={{ scale: 1.1 }}
             className="mt-10 bg-purple-500 text-white py-2 px-4 rounded-lg"
           >
-            View My Work
+            View My Projects
           </motion.button>
         </Link>
       </motion.div>
