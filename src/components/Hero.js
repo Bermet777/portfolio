@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
-import { Link } from 'react-scroll'; // Import Link from react-scroll
+import { Link } from 'react-scroll';
+import AnimationHero from './AnimationHero'; 
 
 const Hero = () => {
   return (
@@ -8,7 +9,7 @@ const Hero = () => {
         initial={{ opacity: 0, y: -50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1.5 }}
-        className="text-center"
+        className="text-center mb-8"
       >
         <h1 className="text-5xl font-bold mb-5">
           Hi, I'm <span className="text-purple-500">Bermet</span>
@@ -24,11 +25,13 @@ const Hero = () => {
             whileHover={{ scale: 1.1 }}
             className="mt-10 bg-purple-500 text-white py-2 px-4 rounded-lg"
           >
-            View My Projects
+            View My Work
           </motion.button>
         </Link>
       </motion.div>
 
+      {/* Add the animation below */}
+      <AnimationHero />
     </section>
   );
 };
