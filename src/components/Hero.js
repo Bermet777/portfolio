@@ -20,7 +20,7 @@ const Hero = () => {
           software solutions that can positively impact the world.
         </p>
         {/* View My Work button */}
-        <Link to="projects" smooth={true} duration={1000}>
+        <Link to="projects" smooth={true} duration={500}>
           <motion.button
             whileHover={{ scale: 1.1 }}
             className="mt-10 bg-purple-500 text-white py-2 px-4 rounded-lg"
