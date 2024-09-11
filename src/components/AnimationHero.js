@@ -1,5 +1,5 @@
 import React from 'react';
-import { Player } from '@lottiefiles/react-lottie-player'; // Correct Lottie Player import
+import { Player } from '@lottiefiles/react-lottie-player'; 
 import techAnimation from '../animations/animation.json'; 
 
 const AnimationHero = () => {
