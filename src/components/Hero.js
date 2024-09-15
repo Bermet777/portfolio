@@ -12,7 +12,7 @@ const Hero = () => {
         className="text-center mb-8"
       >
         <h1 className="text-5xl font-bold mb-5">
-          Hi, I'm <span className="text-purple-500">Bermet</span>
+          Hi, I'm <span className="text-white-500">Bermet</span>
         </h1>
         <p className="mt-5 text-lg max-w-xl mx-auto leading-relaxed">
           I'm a full-stack software engineer based in US. <br />
@@ -23,7 +23,7 @@ const Hero = () => {
         <Link to="projects" smooth={true} duration={500}>
           <motion.button
             whileHover={{ scale: 1.1 }}
-            className="mt-10 bg-purple-500 text-white py-2 px-4 rounded-lg"
+            className="mt-10 bg-blue-500 text-white py-2 px-4 rounded-lg"
           >
             View My Work
           </motion.button>
