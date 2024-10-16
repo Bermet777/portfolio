@@ -37,14 +37,14 @@ const Projects = () => {
             <div>
               <h3 className="text-2xl mb-3">{project.title}</h3>
               <p className="mb-5">{project.description}</p>
-              <p className="text-purple-500 italic">{project.technologies}</p>
+              <p className="text-blue-500 italic">{project.technologies}</p>
             </div>
             <div className="mt-5">
               <a
                 href={project.sourceLink}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-purple-500 text-white py-2 px-4 rounded-lg block text-center"
+                className="bg-blue-500 text-white py-2 px-4 rounded-lg block text-center"
               >
                 View on GitHub
               </a>
