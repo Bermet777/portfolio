@@ -15,7 +15,7 @@ const Technologies = () => {
           <div>
             <strong className="block text-xl mb-3">Back-end</strong>
             <p className="text-gray-700">
-              Node.js, Express.js, Python, Django, Flask, FastAPI, Java
+              Node.js, Express.js, Python, Java, Django, Flask, FastAPI
             </p>
           </div>
           <div>
