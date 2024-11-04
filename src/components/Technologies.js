@@ -27,7 +27,7 @@ const Technologies = () => {
           <div>
             <strong className="block text-xl mb-3">Tools</strong>
             <p className="text-gray-700">
-              Git, Docker, GitHub, Jira, Bash, Asana
+              Git, Docker, GitHub, Jira, Bash
             </p>
           </div>
         </div>
