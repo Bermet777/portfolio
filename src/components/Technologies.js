@@ -9,7 +9,7 @@ const Technologies = () => {
           <div>
             <strong className="block text-xl mb-3">Front-end</strong>
             <p className="text-gray-700">
-              JavaScript, React, Vue, Angular, HTML, CSS, Bootstrap, Next.js
+              JavaScript, React, Vue, Angular, Typescript, HTML, CSS, Bootstrap, Next.js
             </p>
           </div>
           <div>
@@ -37,5 +37,8 @@ const Technologies = () => {
 };
 
 export default Technologies;
+
+
+
 
 
