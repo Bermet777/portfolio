@@ -16,7 +16,7 @@ const Hero = () => {
         </h1>
         <p className="mt-5 text-lg max-w-xl mx-auto leading-relaxed">
           I'm a full-stack software engineer based in US. <br />
-          I have a great interest in developing innovative and inclusive <br />
+          I have a great interest in developing innovative <br />
           software solutions that can positively impact the world.
         </p>
         {/* View My Work button */}
